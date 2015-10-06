@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DateTimePickerDialog</string>
+    <string name="hello_world">Date Timer Dialog Demo!</string>
+    <string name="pick_time">Pick time</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
